@@ -1,126 +1,86 @@
-<h1 align="center">Hi 👋, I'm Muhammad Yasseene</h1>
-<h3 align="center">🎯 IT Engineering Student | AI × Cybersecurity × Systems</h3>
+<div align="center">
 
-## ⚙️ Active Operations
+![Yasseene](assets/header.svg)
 
-This section tracks exploration, iteration, and what I am actively testing right now.
+![Terminal](assets/terminal.svg)
 
-- **[Sharingan](https://github.com/mUchiha26/Sharingan)** - Research phase completed; development has started. Current focus: turning recon research into a working AI + Nmap execution pipeline.
-- **[Auto-Patrol FSM](https://github.com/mUchiha26/Automated-Patrol-State-Machine)** - MVP is in testing. Current focus: validating behavior under real monitoring scenarios and improving stability.
+![open to](https://img.shields.io/badge/open_to-summer_2027_internships-3b82f6?style=for-the-badge&labelColor=0b1020)
+![focus](https://img.shields.io/badge/focus-cybersecurity_+_AI-1e3a8a?style=for-the-badge&labelColor=0b1020)
 
-## 🌱 Currently Learning
+</div>
 
-- AI/ML: LLM fine-tuning, RAG architectures, model evaluation
-- Cybersecurity: Threat detection with ML, red team automation, CVE analysis
-- Systems: Linux hardening, Docker workflows, IoT/Robotics + AI integration
+![](assets/divider.svg)
 
-## 🚀 Shipped Projects
+![About](assets/title-about.svg)
 
-This section is proof of delivery: projects that reached a usable milestone.
+```yaml
+name: yasseene
+role: computer engineering student, 4th year
+school: TEK-UP University
+location: tunisia
+focus:
+  - offensive security
+  - defensive security
+  - AI engineering (local LLMs)
+daily-driver: fedora
+principles:
+  - build real things
+  - document decisions
+  - test before trusting
+status: seeking a summer 2027 internship
+```
 
-| Project                                                                        | Description                                                        | Tech Stack                    | Status         |
-| ------------------------------------------------------------------------------ | ------------------------------------------------------------------ | ----------------------------- | -------------- |
-| [LLM-Noise-Filtering](https://github.com/mUchiha26/LLM-Noise-Filtering-System) | MVP shipped for security dataset noise filtering and preprocessing | PyTorch, Pandas, Hugging Face | 🟢 MVP Shipped |
+![](assets/divider.svg)
 
-📡 _Follow the commit history for real-time updates._
+![Projects](assets/title-projects.svg)
 
-### 📈 Learning in Public
+<a href="https://github.com/mUchiha26/Sharingan"><img src="assets/projects/sharingan.svg" alt="Sharingan"></a>
+<a href="https://github.com/mUchiha26/HELIX-PoC"><img src="assets/projects/helix.svg" alt="HELIX"></a>
+<img src="assets/projects/splunksploit2.svg" alt="SplunkSploit2">
+<img src="assets/projects/loopvolta.svg" alt="LoopVolta">
 
-<p align="left">
-<a href="#">
-<img src="https://img.shields.io/badge/Certifications-LFCS%20%7C%20CCNA%20%7C%20eJPT-blue?logo=linux&logoColor=white" alt="Certs"/>
-</a>
-<a href="https://github.com/mUchiha26?tab=overview&from=2026-01-01">
-<img src="https://img.shields.io/badge/Build%20Log-GitHub%20Commits-green?logo=github&logoColor=white" alt="Commits"/>
-</a>
-<a href="#">
-<img src="https://img.shields.io/badge/Blog-Dev.to-blue?logo=dev.to&logoColor=white" alt="Blog"/>
-</a>
-<a href="#">
-<img src="https://img.shields.io/badge/Goal-100_Days_of_Code-purple?logo=code&logoColor=white" alt="Challenge"/>
-</a>
-</p>
+Sharingan (red team) and HELIX (blue team) are two halves of one idea: build the attack tooling and the defense tooling side by side, so each one sharpens the other.
 
-### 🛠️ Languages & Tools
+![](assets/divider.svg)
 
-<p align="left">
-<a href="https://www.python.org" target="_blank">
-<img src="https://skillicons.dev/icons?i=py" alt="Python" width="40" height="40"/>
-</a>
-<a href="https://www.linux.org" target="_blank">
-<img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="40" height="40"/>
-</a>
-<a href="https://www.docker.com" target="_blank">
-<img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="40" height="40"/>
-</a>
-<a href="https://git-scm.com" target="_blank">
-<img src="https://skillicons.dev/icons?i=git" alt="Git" width="40" height="40"/>
-</a>
-<a href="https://pytorch.org" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40"/>
-</a>
-<a href="https://scikit-learn.org" target="_blank">
-<img src="https://skillicons.dev/icons?i=scikitlearn" alt="scikit-learn" width="40" height="40"/>
-</a>
-<a href="https://www.tensorflow.org" target="_blank">
-<img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" width="40" height="40"/>
-</a>
-<a href="https://jupyter.org" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="40" height="40"/>
-</a>
-<a href="https://ollama.com" target="_blank">
-<img src="https://cdn.simpleicons.org/ollama" alt="Ollama" width="40" height="40"/>
-</a>
-<a href="https://www.arduino.cc" target="_blank">
-<img src="https://skillicons.dev/icons?i=arduino" alt="Arduino" width="40" height="40"/>
-</a>
-<a href="https://learn.microsoft.com/en-us/cpp/c-language/" target="_blank">
-<img src="https://skillicons.dev/icons?i=c" alt="C" width="40" height="40"/>
-</a>
-</p>
+![Stack](assets/title-stack.svg)
 
-### 📊 GitHub Stats
+[![stack](https://skillicons.dev/icons?i=linux,bash,py,java,c,js,docker,git,github&perline=9&theme=dark)](https://skillicons.dev)
 
-<p align="center"><em>Mission Telemetry Dashboard</em></p>
+![Splunk](https://img.shields.io/badge/Splunk-111a2e?style=flat-square&logo=splunk&logoColor=5aa9ff)
+![Wireshark](https://img.shields.io/badge/Wireshark-111a2e?style=flat-square&logo=wireshark&logoColor=5aa9ff)
+![Kali](https://img.shields.io/badge/Kali-111a2e?style=flat-square&logo=kalilinux&logoColor=5aa9ff)
+![Fedora](https://img.shields.io/badge/Fedora-111a2e?style=flat-square&logo=fedora&logoColor=5aa9ff)
+![Ollama](https://img.shields.io/badge/Ollama-111a2e?style=flat-square&logo=ollama&logoColor=5aa9ff)
+![GNS3](https://img.shields.io/badge/GNS3-111a2e?style=flat-square&logoColor=5aa9ff)
 
-<p align="center">
-	<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mUchiha26&theme=radical" alt="Yasseene's Stats" width="30%" />
-	<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mUchiha26&theme=radical" alt="Top Languages" width="30%" />
-</p>
+![](assets/divider.svg)
 
-<p align="center">
-	<img src="https://github-readme-streak-stats.herokuapp.com/?user=mUchiha26&theme=radical" alt="GitHub Streak" width="50%" />
-</p>
+![Certifications](assets/title-certs.svg)
 
-Beyond the technical stack, I am also open to collaboration and feedback.
+**Earned**
 
-## 🤝 Open to Collaborate On
+![CyberCamp](https://img.shields.io/badge/CyberCamp-Securinets_FSt_(participation)-3b82f6?style=flat-square&labelColor=0b1020)
+![Splunk eLearning](https://img.shields.io/badge/Splunk-eLearning-3b82f6?style=flat-square&labelColor=0b1020)
 
-- Open-source AI security tools
-- Red team automation frameworks
-- Research on LLM jailbreak detection & defense
-- Edge AI for IoT/Robotics security
+**In progress**
 
-## 🙏 Looking for Help With
+![CCNA](https://img.shields.io/badge/CCNA-in_progress-1e2d4a?style=flat-square&labelColor=0b1020)
+![LFCS](https://img.shields.io/badge/LFCS-in_progress-1e2d4a?style=flat-square&labelColor=0b1020)
+![PCAP](https://img.shields.io/badge/PCAP-in_progress-1e2d4a?style=flat-square&labelColor=0b1020)
+![OCA Java](https://img.shields.io/badge/OCA_Java-in_progress-1e2d4a?style=flat-square&labelColor=0b1020)
 
-- Feedback on AI security project architecture
-- Opportunities to contribute to cybersecurity OSS
-- Mentorship in MLOps for security applications
+![](assets/divider.svg)
 
-## 💬 Ask Me About
+![Activity](assets/title-activity.svg)
 
-Python automation Linux hardening Practical AI tooling Cybersecurity fundamentals IT certification strategies
+[![streak](https://streak-stats.demolab.com?user=mUchiha26&hide_border=true&background=0B1020&ring=3B82F6&fire=5AA9FF&currStreakNum=D6E2FF&sideNums=D6E2FF&currStreakLabel=5AA9FF&sideLabels=7D8FB3&dates=7D8FB3&stroke=1E2D4A&border_radius=14)](https://git.io/streak-stats)
 
-## 📫 Reach Me
+![snake](https://raw.githubusercontent.com/mUchiha26/mUchiha26/output/snake.svg)
 
-- 📧 RAHAL.Mohamed-Yassine@tek-up.de
-- 🔗 [LinkedIn](https://www.linkedin.com/in/rahal-med-yassine-571827243/)
-- 📄 [CV](https://drive.google.com/file/d/1JmDpU9BVWQusKJUfhPGFAnbCZ5d1k7Cr/view?usp=drive_link)
+![](assets/divider.svg)
 
-## ⚡ Fun Fact
+![Contact](assets/title-contact.svg)
 
-I named my security tool "Sharingan ࿋" because AI should see threats before they happen .
-
-## 🎯 Let's Build Something Secure
-
-If you're working on AI security, red team tools, or open-source DevSecOps projects - let's connect.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-3b82f6?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0b1020)](https://www.linkedin.com/in/rahal-med-yassine-571827243)
+[![GitHub](https://img.shields.io/badge/GitHub-mUchiha26-1e2d4a?style=for-the-badge&logo=github&logoColor=white&labelColor=0b1020)](https://github.com/mUchiha26)
